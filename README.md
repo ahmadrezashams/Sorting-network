@@ -1,6 +1,6 @@
 # Sorting-network
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sorting-network-comparator-demonstration.svg" width="200"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/SimpleSortingNetworkFullOperation.svg" width="300"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/SimpleSortingNetworkFullOperation.svg" width="500"/>
 
 
 ##input
