@@ -1,6 +1,7 @@
 # Sorting-network
 
- input file
+##input file
+ ```
  4
 
 4 4 
@@ -28,4 +29,5 @@ acde
 b-df 
 b--f 
 1 3 2 0 
+```
 
