@@ -1,8 +1,8 @@
 # Sorting-network
 
-##input file
+##input
  ```
- 4
+3
 
 4 4 
 ac-e 
@@ -22,12 +22,13 @@ a-
 ab 
 ab 
 1 3 0
-
-4 4 
-ac-e 
-acde 
-b-df 
-b--f 
-1 3 2 0 
 ```
+
+##Output
+```
+Sorted 
+Not sorted 
+Invalid network
+```
+
 
