@@ -1,7 +1,7 @@
 # Sorting-network
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sorting-network-comparator-demonstration.svg" width="200"/>
 
-![sorting network](https://upload.wikimedia.org/wikipedia/commons/e/e8/Sorting-network-comparator-demonstration.svg)
-![sorting network](https://raw.githubusercontent.com/ahmadrezashams/Sorting-network/master/pic2.png)
+
 ##input
  ```
 3
